@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": 3,
+      "name": "item3",
+      "quantity": 58,
+      "price": 32000,
+      "createdAt": "3/15/2022",
+      "updateAt": "5/14/2023"
+    },
+    {
+      "id": 4,
+      "name": "item4",
+      "quantity": 65,
+      "price": 450000,
+      "createdAt": "10/25/2022",
+      "updateAt": "7/10/2023"
+    },
+    {
+      "id": 7,
+      "name": "newName77",
+      "quantity": 5,
+      "price": "5.500.000",
+      "createdAt": "2023-09-02T02:49:09.233Z",
+      "updateAt": "2023-09-02T02:49:09.233Z"
+    },
+    {
+      "id": 8,
+      "name": "item8",
+      "quantity": 42,
+      "price": 28000,
+      "createdAt": "10/31/2021",
+      "updateAt": "9/13/2022"
+    },
+    {
+      "id": 9,
+      "name": "item9",
+      "quantity": 22,
+      "price": 9000,
+      "createdAt": "2/25/2022",
+      "updateAt": "5/8/2023"
+    },
+    {
+      "id": 11,
+      "name": "item11",
+      "quantity": 1,
+      "price": 11500,
+      "createdAt": "10/3/2021",
+      "updateAt": "09/01/2023"
+    },
+    {
+      "name": "newItem",
+      "quantity": 3,
+      "price": 3000,
+      "createdAt": "2023-09-01T23:58:55.256Z",
+      "updatedAt": "2023-09-01T23:58:55.256Z",
+      "id": 12
+    },
+    {
+      "name": "newItem2 ",
+      "quantity": 5,
+      "price": 90000,
+      "createdAt": "2023-09-02T00:01:35.950Z",
+      "updatedAt": "2023-09-02T00:01:35.950Z",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "name": "newName",
+      "quantity": 9,
+      "price": "9.900",
+      "createdAt": "11/3/2021",
+      "updateAt": "2023-09-02T02:08:16.543Z"
+    }
+  ]
+}

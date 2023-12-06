@@ -1,0 +1,16 @@
+{
+  "name": "exercise-js-fetch-mini-inventory-system",
+  "version": "1.0.0",
+  "description": "Base repository for exercise JavaScript Fetch - Mini Inventory System.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
